@@ -3,3 +3,4 @@ Mirror_Mind/data
 
 #Dockerfile
 Mirror_Mind/Dockerfile
+.env
